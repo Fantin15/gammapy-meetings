@@ -66,6 +66,7 @@ A Zoom room will be open the full week.
 8. Katrin Streil, ECAP, Germany ([katrinstreil](https://github.com/katrinstreil))
 
 X. Please add your name and GitHub name here...
+10. Elena Fedorova, INAF-OAR, Italy, ([Fantin15](https://github.com/Fantin15))
 
 ### Online
 
